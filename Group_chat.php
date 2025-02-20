@@ -155,6 +155,7 @@ font-size:10px;clear:both;">
                                     placeholder="Type your message">
 			</textarea>
                             </th>
+
                             <th>
                                 <input class="input2" type="submit"
                                     id="submit" name="submit" value="send">
